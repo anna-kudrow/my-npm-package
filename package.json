@@ -1,0 +1,11 @@
+{
+  "name": "check-your-body-index",
+  "version": "1.0.0",
+  "description": "Programm for checking health indexes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Anna Kudriavtseva",
+  "license": "ISC"
+}
